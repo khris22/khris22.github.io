@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Community of  "Sams""
-date:       2019-06-25 03:51:29 +0000
+date:       2019-06-24 23:51:29 -0400
 permalink:  a_community_of_sams
 ---
 
@@ -10,7 +10,7 @@ permalink:  a_community_of_sams
 
 
 And so the coding journey begins…
- 
+&#x2028;
 
 There are 2 “Sams” I know who I find very inspiring and admirable:  Samwise Gamgee from Lord of the Rings and Samwell Tarly from Game of Thrones. Both “Sams” are always on a quest to always help their dear friends accomplished their goals and mission. They basically got Frodo’s and Jon Snow’s backs. Without these “Sams”, I do not think Frodo and John would have ever succeeded.
 
