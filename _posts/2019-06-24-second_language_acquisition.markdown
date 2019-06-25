@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Second Language Acquisition"
-date:       2019-06-25 03:03:55 +0000
+date:       2019-06-24 23:03:56 -0400
 permalink:  second_language_acquisition
 ---
 
@@ -18,4 +18,4 @@ I was listening to the audio books the school provided, trying to practice every
 
 Now I venture into learning a new language, “Programming Languages”. Since I decided to start this program a month ago, it has not been an easy journey. It brings back my Japanese Language learning experience. I feel like I was put in a classroom where I have no idea what’s going on. As time goes by, I begin to understand little by little the technical jargon people use in this field. I am still on the early stage of this second language acquisition. I have yet to discover more and learn more of this new language. It’s a goal that I want to accomplish and it’s a skill that I know will be valuable to me. I know that the end result of this journey will be rewarding. 
 
-Learning a new language is HARD but it is possible. You will have to undergo a rollercoaster of emotions until you can finally cross that bridge you build and being persistent is the key. You will have a lot of negative feelings at first. You will begin to doubt yourself and your decision. We all have the skills to understand things. We just need to push a little harder. I will end this blog by sharing you one of my dad’s favorite quotes of which he has repeated to me so many times growing up that it’s like a mantra now:*** “Winners never quit and quitters never win.” ***
+Learning a new language is HARD but it is possible. You will have to undergo a rollercoaster of emotions until you can finally cross that bridge you build and being persistent is the key. You will have a lot of negative feelings at first. You will begin to doubt yourself and your decision. We all have the skills to understand things. We just need to push a little harder. I will end this blog by sharing one of my dad’s favorite quotes of which he has repeated to me so many times growing up that it’s like a mantra now:*** “Winners never quit and quitters never win.” ***
