@@ -23,7 +23,9 @@ The AAQ (Ask A Question) coaches are the ones that help me solve the labs in my 
 
 Lastly, my cohort in this part time course that inspire me to keep on moving forward. We all have jobs and we all are a part of this journey together. Every experience we have is different from each other. I learn from them and hopefully they can learn something from me as well. They all have inspired me that I am not alone in this journey and that we just have to keep on pushing ourselves. 
 
+
 <iframe src="https://giphy.com/embed/oHWpS7nM76lG0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-lord-of-rings-fellowship-ring-return-king-oHWpS7nM76lG0">via GIPHY</a></p>
+
 
 I know that this is my journey and that I have to learn a lot to finish this mission on my own. But without the “Sams” surrounding me right now, I am not sure I would be able to do this course. This is actually one thing that Flatiron is offering to its students that I really love: be a part of a community. It is always nice to know that you’re not alone and there will be this group of people that will help you improve yourself and reach your goals.
 
