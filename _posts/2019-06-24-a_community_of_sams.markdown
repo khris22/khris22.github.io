@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "A Community of  "Sams""
+title:      "A Community of  Sams"
 date:       2019-06-24 23:51:29 -0400
 permalink:  a_community_of_sams
 ---
