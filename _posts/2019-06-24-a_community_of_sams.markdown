@@ -12,7 +12,7 @@ permalink:  a_community_of_sams
 And so the coding journey begins…
 &#x2028;
 
-There are 2 “Sams” I know who I find very inspiring and admirable:  Samwise Gamgee from Lord of the Rings and Samwell Tarly from Game of Thrones. Both “Sams” are always on a quest to always help their dear friends accomplished their goals and mission. They basically got Frodo’s and Jon Snow’s backs. Without these “Sams”, I do not think Frodo and John would have ever succeeded.
+There are 2 “Sams” I know who I find very inspiring and admirable:  Samwise Gamgee from Lord of the Rings and Samwell Tarly from Game of Thrones. Both “Sams” are always on a quest to help their dear friends to accomplish their goals and mission. They basically got Frodo’s and Jon Snow’s backs. Without these “Sams”, I do not think Frodo and John would have ever succeeded.
 
 There are many Sams surrounding me right now in this journey. Enrolling part-time in the Online Software Engineering Program at Flatiron Program while having a full time job is not an easy feat. There are days that I almost could not handle the stress and pressure of both. My life partner, Steve, has been my number one “Sam” from the start of this journey. He has encouraged me and helped me make the jump to enroll and pursue a career change. When things seem unbearable, he always knows the right things to say to help me push myself and not give up. 
 
