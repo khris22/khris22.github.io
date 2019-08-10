@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Keep Exploring!"
-date:       2019-08-10 19:16:42 +0000
+title:      "Keep Exploring"
+date:       2019-08-10 15:16:43 -0400
 permalink:  keep_exploring
 ---
 
