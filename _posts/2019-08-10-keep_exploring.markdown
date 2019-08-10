@@ -5,7 +5,7 @@ date:       2019-08-10 15:16:43 -0400
 permalink:  keep_exploring
 ---
 
-#### This is my personal take as I reflect on my very first technical project.  
+### This is my personal take as I reflect on my very first technical project.  
 
 Like what I mentioned on my first few blogs, I have a non-technical background. After studying part-time for a good 2 months here at Flatiron school, I jumped from having zero knowledge in programming to building my very own CLI Data Gem on Ruby. It has not been an easy adventure. Since I knew that I didn't have any technical background, I have to work harder and make extra effort to make sure I understand all the jargons and concepts in this field. The last couple of weeks have not been easy. It was a rollercoaster ride of being confident and proud to doubting myself and feeling hopeless. Now that my project is finished, I feel a great sense of accomplishment. 
 
