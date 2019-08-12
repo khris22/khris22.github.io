@@ -16,7 +16,7 @@ I moved on to getting my local environment ready. I followed the supplemental vi
 Looking back at past lessons, remembering what we did in study groups in my cohort and also attending the supplemental study groups. I proceeded in making files that I needed in my library with this framework in mind:
 
 
-![](https://ibb.co/hgnjr6M)
+![](https://lh3.googleusercontent.com/AHfqzQBHtBwLys962rmgrN9WV9V2zPNKzGu2BZw63fIhc0t4HBMI-H_AhLT8B-yZNs1AoQ1aZLyJSEtzX-dnDmh7yKLTrfw53AHOJJtJEWAq2i_BMw5-wiMTbeN5Rbw7e2W31IOvTQ=w2400)
 
 
 Before getting into the coding part, I need to make sure that the files in my library are interesting with each other. So in my file that serves as my environment. I used the command `require_relative`. I learned by using this it’s requiring the OS to look for the files listed in my program. Once everything is all set up, the fun part begins: SCRAPING! 
@@ -38,7 +38,7 @@ To those who are starting this journey especially for people who have a non tech
 
 Here is a preview of my very first CLI project:
 
-![](http://ibb.co/zZ31TXP)
+![](https://lh3.googleusercontent.com/kFirq8rhQgT3TjyZ3Fm6BIlvGlaw64Xgy2C5i7Zd6aqSiCns9a74vLz8PFMIde-fscnpkfhxtKNm9aIZEO6KNT-NyerDygv4rbqYUJmLfZyrXuXo75xY_-mGYWVVZpqq6fHXmDTyvw=w2400)
 
 
 
