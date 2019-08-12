@@ -38,7 +38,7 @@ To those who are starting this journey especially for people who have a non tech
 
 Here is a preview of my very first CLI project:
 
-![](https://lh3.googleusercontent.com/kFirq8rhQgT3TjyZ3Fm6BIlvGlaw64Xgy2C5i7Zd6aqSiCns9a74vLz8PFMIde-fscnpkfhxtKNm9aIZEO6KNT-NyerDygv4rbqYUJmLfZyrXuXo75xY_-mGYWVVZpqq6fHXmDTyvw=w2400)
+![](https://lh3.googleusercontent.com/wWmUMz0vOJRGLy4nIa7oaifp7ZynqsaiOB6REm-BO4xi58vu7E2lZ0t4Ws0hSxsOG9ZXxJD3OTrAqgoKgKJfqVN9oYH14SpSI6G23fYfbqzkTkYOBTCy2rGtMhVmbDHPerNmEViCLw=w2400)
 
 
 
