@@ -8,6 +8,7 @@ permalink:  a_community_of_sams
 
 ![](https://pbs.twimg.com/media/CevCOZlXIAATbHY.jpg)
 
+[Image Source] (https://pbs.twimg.com/media/CevCOZlXIAATbHY.jpg)
 
 And so the coding journey begins…
 &#x2028;
