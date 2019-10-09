@@ -6,7 +6,7 @@ permalink:  second_language_acquisition
 ---
 
 
-   ![](http://985thejewel.com/wp-content/uploads/beeplugin_languages.png)
+   ![Image Source](http://985thejewel.com/wp-content/uploads/beeplugin_languages.png)
 
 Learning a new language is like building a bridge to the unknown world. I am a second language learner myself. Growing up I have learned English since I started school. After graduating college, I took the opportunity of learning another language: Japanese. I decided to go to Japan and enrolled in a Japanese Language Course. I clearly remember that on my first day of school the only Japanese I knew was “Konnichiwa” which translates to “Hello” and “Arigatou Gozaimasu” which is “Thank you”. I was sent to a classroom filled with 25  or more students from different countries all of whom already knew basic phrases. Our lessons started and I was just looking at the teacher with so much confusion on my face as if to say “I have no idea what you’re saying right now.” I went home feeling frustrated thinking “Did I just make a wrong decision? Did I just waste my time and money getting here?”. 
 
