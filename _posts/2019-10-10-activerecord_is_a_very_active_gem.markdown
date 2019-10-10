@@ -21,9 +21,9 @@ For example:
 
 
 ``` alexa = User.create(name: “Alexa”) *Alexa’s user_id = 1
-Yosemite = Adventure.create(title: “Yosemite Adventure, user_id: alexa.id) * This adventure belongs_to Alexa.
+Yosemite = Adventure.create(title: “Yosemite Adventure, user_id: alexa.id) * This adventure belongs_to Alexa.```
 
-Because of these associations, I can perform these methods:
+```Because of these associations, I can perform these methods:
 @adventure.user.name => Alexa
 @user.adventures.title => Yosemite Adventure ```
 
