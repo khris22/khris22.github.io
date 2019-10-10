@@ -5,11 +5,11 @@ date:       2019-10-10 03:16:44 -0400
 permalink:  activerecord_is_a_very_active_gem
 ---
 
-Activating ActiveRecord is as easy as typing in `gem install activerecord` or simply just adding it in your Gemfile and running bundle. Then you have to make the [connection between Active Record and your database] (https://apidock.com/rails/ActiveRecord/ConnectionHandling/establish_connection).
+Activating ActiveRecord is as easy as typing in `gem install activerecord` or simply just adding it in your Gemfile and running bundle. Then you have to make the [connection between Active Record and your database](https://apidock.com/rails/ActiveRecord/ConnectionHandling/establish_connection).
 
 Once the connection has been established, we need to link our model/s to ActiveRecord by inheriting from `ActiveRecord::Base`. Once this has been our model/s has now a whole bunch of methods that can be used like `.create` or `.find`. We do not even need to indicate our `attr_accessor` since ActiveRecord already has this method built in. 
 
-Since ActiveRecord acts as a bridge between our model/s and our database (in this case SQLite). It has made it easier to [create tables and columns, manipulate,  and delete information in our database.] (https://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data)
+Since ActiveRecord acts as a bridge between our model/s and our database (in this case SQLite). It has made it easier to [create tables and columns, manipulate,  and delete information in our database.](https://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data)
 
 To add more this gem’s awesomeness, it also creates a user [input validation](https://guides.rubyonrails.org/active_record_validations.html) behind the scenes. It can validate whether the username or email is unique, if the user has filled out details on your forms before it persists bad data in your database. All these things and more can be done just because of one gem! How cool is that?!
 
@@ -19,14 +19,15 @@ While I was doing my Sinatra project, I realized how active this gem is and one 
 
 For example:
 
-```alexa = User.create(name: “Alexa”) *Alexa’s user_id = 1
+
+``` alexa = User.create(name: “Alexa”) *Alexa’s user_id = 1
 Yosemite = Adventure.create(title: “Yosemite Adventure, user_id: alexa.id) * This adventure belongs_to Alexa.
 
 Because of these associations, I can perform these methods:
 @adventure.user.name => Alexa
-@user.adventures.title => Yosemite Adventure```
+@user.adventures.title => Yosemite Adventure ```
 
-Now, one thing that I want to learn more on is the [`has_many :through` relationships] (https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association) . I was hoping to do it for this project but due to the limited time that I have, I want to understand it better by writing this blog and apply it later. Let’s say I have added another model in my project, now the structure will look like this:
+Now, one thing that I want to learn more on is the [`has_many :through` relationships](https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association) . I was hoping to do it for this project but due to the limited time that I have, I want to understand it better by writing this blog and apply it later. Let’s say I have added another model in my project, now the structure will look like this:
 
 ![](https://lh3.googleusercontent.com/-iNMLGpwrklTAtyJ58rqkpD75uQSNKF-rn13VOIKMG7d0WOGo2DeQsEjF6hCaoYL1gyiGD-OzTW6JLAIMDQdsT7jzM5miBzyo7-M8xLe4MX_p76bZsLg7iFbLoK_S6SgButUEZzUrQ=w2400)
 
