@@ -20,12 +20,14 @@ While I was doing my Sinatra project, I realized how active this gem is and one 
 For example:
 
 
-``` alexa = User.create(name: “Alexa”) *Alexa’s user_id = 1
-Yosemite = Adventure.create(title: “Yosemite Adventure, user_id: alexa.id) * This adventure belongs_to Alexa.```
+``` 
+alexa = User.create(name: “Alexa”) *Alexa’s user_id = 1
+Yosemite = Adventure.create(title: “Yosemite Adventure, user_id: alexa.id) * This adventure belongs_to Alexa.
 
-```Because of these associations, I can perform these methods:
+Because of these associations, I can perform these methods:
 @adventure.user.name => Alexa
-@user.adventures.title => Yosemite Adventure ```
+@user.adventures.title => Yosemite Adventure 
+```
 
 Now, one thing that I want to learn more on is the [`has_many :through` relationships](https://guides.rubyonrails.org/association_basics.html#the-has-many-through-association) . I was hoping to do it for this project but due to the limited time that I have, I want to understand it better by writing this blog and apply it later. Let’s say I have added another model in my project, now the structure will look like this:
 
