@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ActiveRecord is a Very Active Gem"
-date:       2019-10-10 07:16:44 +0000
+date:       2019-10-10 03:16:44 -0400
 permalink:  activerecord_is_a_very_active_gem
 ---
 
