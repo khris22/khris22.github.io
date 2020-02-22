@@ -6,8 +6,6 @@ permalink:  juggling_javascript
 ---
 
 
-Draft Draft Draft Draft Draft Draft Draft Draft
-
 For my JavaScript SPA Project, I have an app called **飲む(nomu)** . It is an app for cocktail lovers where the user can input their favorite cocktails, even their experimental cocktail mixes. As challenging as this project can be, I have learned so much about JavaScript and added some new Rails knowledge. I realized that there is still a lot more to learn. 
 
 > Like what Socrates said, “The more I know, the more I realize I know nothing.” 
