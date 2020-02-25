@@ -16,7 +16,15 @@ Here are some of the lessons that I have learned based on the errors that I have
 
 ![](https://lh3.googleusercontent.com/8jWOlyPVs_nEu72jP7w2vv8mRX-0FTZYKYC0KkOX_xgjIoMJ9tgrlTwGs8w7iKcHIH5Sdk7NUj5xTutQCgm9tplngx_z-4sGyLVr0Vwz_vy-Z3J7F8QrJMX0qgzohLm_AjNNAu1HFQ=w2400)
 
-I spent I don’t know many hours figuring out why my `destroy` action in my controller is not working and almost gave up on this functionality. During that time, my friend and I figured out that postgres is not allowing me to delete a cocktail because ActiveRecord tried deleting an instance of a cocktail while my liquor table is still referencing it. One option that I found is adding referential integrity options set to cascade. In this it is ON DELETE. ON DELETE CASCADE will delete that instance of a cocktail and the other rows on your table associated with it. There are other options like ON DELETE SET NULL and ON DELETE RESTRICT that I could probably use as well but I will have to dig deeper into to know how they work and what option to use depending on the functionality of my application.
+I spent I don’t know many hours figuring out why my `destroy` action in my controller is not working and almost gave up on this functionality. During that time, my friend and I figured out that postgres is not allowing me to delete a cocktail because ActiveRecord tried deleting an instance of a cocktail while my liquor table is still referencing it. One option that I found is adding referential integrity options set to cascade. In this it is ON DELETE. ON DELETE CASCADE will delete that instance of a cocktail and the other rows on your table associated with it. There are other options like ON DELETE SET NULL and ON DELETE RESTRICT that I could probably use as well but I will have to dig deeper into to know how they work and what option to use depending on the functionality of my application. Second option is setting the dependent option in your model like this:
+
+> class Cocktail < ApplicationRecord
+>     has_many :liquor_cocktails, dependent: :destroy
+> class Liquor < ApplicationRecord
+>     has_many :liquor_cocktails, dependent: :destroy
+> :destroy causes all the associated objects to also be destroyed
+
+I went with the second option which I think is the safer way to go as I don't want to directly affect what I have in my database.
 
 ### 2.  `.bind()` `.this`
 
