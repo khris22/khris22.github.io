@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "trekkingIt on React-Redux"
+title:      "trekkingIt on React Redux"
 date:       2020-04-24 22:32:14 -0400
-permalink:  trekkingit_on_react-redux
+permalink:  trekkingit_on_react_redux
 ---
 
 
