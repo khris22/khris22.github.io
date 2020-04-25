@@ -18,6 +18,7 @@ That made my life a little easier and I started making good progress producing a
 There are so many things that I have learned from this section of the curriculum and here are a few of them:
 
 Props and State
+
 At the beginning of the curriculum, I was so confused with the difference of these two words! `Props` is short for “properties”. These are passed into the components from parent to children. `State`, on the other hand, holds information/data about the component. `State` is changeable using `setState`. `this.setState` will only cause a rerender of a particular component and its children but `props` is not changeable or should not change. They are immutable. 
 
 Redux
